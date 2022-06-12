@@ -1,6 +1,6 @@
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/fachrizzz/rsa-model)](https://github.com/fachrizzz/tldi-model)
-[![GitHub repo size](https://img.shields.io/github/repo-size/fachrizzz/rsa-model)](https://github.com/fachrizzz/tldi-model)
-[![GitHub language count](https://img.shields.io/github/languages/count/fachrizzz/rsa-model)](https://github.com/fachrizzz/tldi-model)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/fachrizzz/tldi-model)](https://github.com/fachrizzz/tldi-model)
+[![GitHub repo size](https://img.shields.io/github/repo-size/fachrizzz/tldi-model)](https://github.com/fachrizzz/tldi-model)
+[![GitHub language count](https://img.shields.io/github/languages/count/fachrizzz/tldi-model)](https://github.com/fachrizzz/tldi-model)
 
 # TLDI: Tea Leave Disease Indentifier
 
