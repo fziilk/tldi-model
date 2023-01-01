@@ -5,11 +5,3 @@
 # TLDI: Tea Leave Disease Indentifier
 
 TLDI is a Computer Vision (CV) model built with TensorFlow API. The objective of the TLDI model is to classify 8 class of diseases in tea leaves. 
-
-## Instalation
-
-To install TLDI, please execute the following script in the terminal.
-
-```
-git clone https://github.com/fachrizzz/tldi-model.git
-```
